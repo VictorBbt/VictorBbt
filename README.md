@@ -4,8 +4,8 @@
 <h2> Nice to meet you 👋</h2>
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-I am Victor Barberteguy, a graduate student from Ecole Polytechnique 🇫🇷
-I am keen on Artificial Intelligence, Visual Computing and their many applications, especially in robotics 🤖, cognitive sciences 🧠 and art 🖼️ ! 
+I am Victor Barberteguy, a coadvised PhD student at Google Deepmind and the Imagine group at ENPC. Before that, I graduated from Ecole Polytechnique, with a major in AI and Visual Computing and a minor in CyberPhysical systems 🇫🇷
+I am keen on Artificial Intelligence and its many applications, especially in robotics 🤖, cognitive sciences 🧠 and art 🖼️ ! 
 </p> 
 
 <br>
